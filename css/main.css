@@ -501,8 +501,26 @@ html, body {
 
 }
 /* SUDOKU GAME ========================= */
+.title-1Sudoku{
+    margin-bottom: 30px;
+    font-size: 40px;
+    color: rgba(255, 68, 0, 0.557);
+}
+h2{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #bcbcbf;
+    color: rgba(255, 68, 0, 0.557);
+}
+.sudokuRules{
+    font-size: 1.25em;
+    padding: 3% 0;
+    color: #bcbcbf;
+    
+}
 #playGround{
     width: 100%;
+    margin-top: 3%;
     text-align: center;
 }
 .sudoku{
