@@ -5,6 +5,12 @@
 	border: none;
 }
 
+/* Font */
+@font-face {
+    font-family: 'Azonix';
+    src: url('/font/Azonix.otf');
+}
+
 *,
 *::before,
 *::after {
